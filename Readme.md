@@ -43,21 +43,12 @@ We use the [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) to p
 | Short-scan FDK (uncorrected) | <img height="280" src="demo/4_1.gif"> | <img height="280" src="demo/4_2.gif"> | <img height="280" src="demo/4_3.gif"> |
 |        MARVEL Results        | <img height="280" src="demo/4_4.gif"> | <img height="280" src="demo/4_5.gif"> | <img height="280" src="demo/4_6.gif"> |
 
-### 4D heart gallery
-
-We are now able to collect high quality 4D cardiac CT data. This dataset may benefit various downstream research.
-
-| <img height="180" src="demo/5_1.gif">  | <img height="180" src="demo/5_2.gif">  | <img height="180" src="demo/5_3.gif">  | <img height="180" src="demo/5_4.gif">  | <img height="180" src="demo/5_5.gif">  |
-| :------------------------------------: | :------------------------------------: | :------------------------------------: | -------------------------------------- | -------------------------------------- |
-| <img height="180" src="demo/5_6.gif">  | <img height="180" src="demo/5_7.gif">  | <img height="180" src="demo/5_8.gif">  | <img height="180" src="demo/5_9.gif">  | <img height="180" src="demo/5_10.gif"> |
-| <img height="180" src="demo/5_11.gif"> | <img height="180" src="demo/5_12.gif"> | <img height="180" src="demo/5_13.gif"> | <img height="180" src="demo/5_14.gif"> | <img height="180" src="demo/5_15.gif"> |
-
-
 
 
 ## MARVEL Workflow
 
 <div align=center><img width="1080" src="demo/figwholeframework.png"></div>
+
 
 
 
