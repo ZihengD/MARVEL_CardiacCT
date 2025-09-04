@@ -23,6 +23,8 @@ Here are some examples of our motion artifact reduction algorithm tested on __*r
 
 The MARVEL framework works in 3D/4D, thus natively provides consistent and natural 3D motion. You may also notice that the MARVEL also reveals the respiratory motion for case 2, where the patient failed to hold the breath.
 
+*Note: We suppressed the cone-beam artifacts via a simple post-processing neural network to better demonstrate the dynamic reconstruction results.*
+
 |         Case         |                 Case1                 |                 Case2                 |                 Case3                 |
 | :------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
 | MARVEL Coronal View  | <img height="180" src="demo/2_1.gif"> | <img height="180" src="demo/2_2.gif"> | <img height="180" src="demo/2_3.gif"> |
@@ -48,6 +50,7 @@ We use the [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) to p
 ## MARVEL Workflow
 
 <div align=center><img width="1080" src="demo/figwholeframework.png"></div>
+
 
 
 
