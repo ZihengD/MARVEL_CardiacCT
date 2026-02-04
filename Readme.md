@@ -18,7 +18,7 @@ In this challenging case with a mixed plaque and positive remodeling in the prox
 
 | Method |       Short-scan FDK (50% R-R)        |     MARVEL Result (50% R-R)      |       Reference Image (72% R-R)       |
 | :----: | :-----------------------------------: | :------------------------------: | :-----------------------------------: |
-|        | <img height="180" src="demo/0_1.png"> | <img height="180" src="0_2.png"> | <img height="180" src="demo/0_3.png"> |
+|        | <img height="180" src="demo/0_1.png"> | <img height="180" src="demo/0_2.png"> | <img height="180" src="demo/0_3.png"> |
 
 ### How MARVEL works?
 
@@ -26,7 +26,7 @@ MARVEL is an interpretable motion artifact reduction algorithm powered by a neur
 
 |     Neural Network Estimated MVF      |   Motion-aware Back-projection   |      Motion-aware Reconstruction      |
 | :-----------------------------------: | :------------------------------: | :-----------------------------------: |
-| <img height="180" src="demo/0_4.jpg"> | <img height="180" src="0_5.gif"> | <img height="180" src="demo/0_6.gif"> |
+| <img height="180" src="demo/0_4.jpg"> | <img height="180" src="demo/0_5.gif"> | <img height="180" src="demo/0_6.gif"> |
 
 ### Dynamic results in axial view (UIH uCT 960+ data)
 
@@ -64,7 +64,6 @@ We use the [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) to p
 We are now able to collect high quality 4D cardiac CT data. This dataset may benefit various downstream research.
 
 | <img height="180" src="demo/5_1.gif">  | <img height="180" src="demo/5_2.gif">  | <img height="180" src="demo/5_3.gif">  | <img height="180" src="demo/5_4.gif">  | <img height="180" src="demo/5_5.gif">  |
-| :------------------------------------: | :------------------------------------: | :------------------------------------: | -------------------------------------- | -------------------------------------- |
 | <img height="180" src="demo/5_6.gif">  | <img height="180" src="demo/5_7.gif">  | <img height="180" src="demo/5_8.gif">  | <img height="180" src="demo/5_9.gif">  | <img height="180" src="demo/5_10.gif"> |
 | <img height="180" src="demo/5_11.gif"> | <img height="180" src="demo/5_12.gif"> | <img height="180" src="demo/5_13.gif"> | <img height="180" src="demo/5_14.gif"> | <img height="180" src="demo/5_15.gif"> |
 
@@ -74,6 +73,7 @@ We are now able to collect high quality 4D cardiac CT data. This dataset may ben
 ## MARVEL Workflow
 
 <div align=center><img width="1080" src="demo/figwholeframework.png"></div>
+
 
 
 
