@@ -16,9 +16,9 @@ Here are some examples of our motion artifact reduction algorithm tested on __*r
 
 In this challenging case with a mixed plaque and positive remodeling in the proximal RCA causing moderate stenosis, our approach effectively reduced motion artifacts while maintaining diagnostic visualization of the coronary lumen and plaque morphology. 
 
-| Method |       Short-scan FDK (50% R-R)        |     MARVEL Result (50% R-R)      |       Reference Image (72% R-R)       |
-| :----: | :-----------------------------------: | :------------------------------: | :-----------------------------------: |
-|        | <img height="180" src="demo/0_1.png"> | <img height="180" src="demo/0_2.png"> | <img height="180" src="demo/0_3.png"> |
+|       Short-scan FDK (50% R-R)        |     MARVEL Result (50% R-R)      |       Reference Image (72% R-R)       |
+| :-----------------------------------: | :------------------------------: | :-----------------------------------: |
+| <img height="180" src="demo/0_1.png"> | <img height="180" src="demo/0_2.png"> | <img height="180" src="demo/0_3.png"> |
 
 ### How MARVEL works?
 
@@ -64,6 +64,7 @@ We use the [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) to p
 ## MARVEL Workflow
 
 <div align=center><img width="1080" src="demo/figwholeframework.png"></div>
+
 
 
 
