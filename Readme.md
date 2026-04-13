@@ -4,7 +4,9 @@ Author: Ziheng Deng, Jun Zhao, School of BME, Shanghai Jiao Tong University
 
 This repository is the official implementation of MARVEL: Motion-aware reconstruction via embedded Learning of Motion Prior for Cardiac CT. In this paper, we introduce a novel framework for motion artifact reduction that synergistically embeds a data-driven motion estimation model into traditional model-based reconstruction method.
 
-Code and pretrained model will be available after the paper is published.
+This word has been accepted by IEEE Transactions on Medical Imaging (IEEE TMI): https://ieeexplore.ieee.org/abstract/document/11417208/
+
+Code (for inference), pretrained model, and sample data are available now: https://drive.google.com/file/d/1VvscUoq06W69b5TmY5IMWHJ1Gvf1RDcv/view?usp=sharing
 
 ## Demo
 
